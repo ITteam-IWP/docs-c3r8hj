@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-go04gh.keitaro-tech-rtb.online/sitemap.xml
